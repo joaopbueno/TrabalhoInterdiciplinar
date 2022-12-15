@@ -1,0 +1,179 @@
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Projeto\Trab_Interdiciplinar\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\Projeto\Trab_Interdiciplinar\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\jvanj\Downloads\revisao_veicular\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
+C:\Users\jvanj\Downloads\revisao_veicular\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.CadastroDeCarro.resources
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.CadastroDeCarro.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.CadastroDeCarro.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Core.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.SqlClient.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Resilience.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CopyComplete
+C:\Users\T-Gamer\Downloads\trabalho (1)\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.AtualizarDados.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Core.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.SqlClient.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Resilience.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.CadastroDeCarro.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.AtualizarDados.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CopyComplete
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Users\jvanj\OneDrive\Área de Trabalho\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.exe
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.deps.json
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.json
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.runtimeconfig.dev.json
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Core.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Data.SqlClient.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\Cuemon.Resilience.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projeto\trabcarro\trabalho\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.AssemblyReference.cache
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Ajuda.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Cadastro.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.CadastroDeCarro.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Form1.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Inicio.TelaPrincipal.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.AtualizarDados.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.CadastroCarro.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.ListaCarro.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Menu.Planejamento.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.Properties.Resources.resources
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.GenerateResource.cache
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfoInputs.cache
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.AssemblyInfo.cs
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CoreCompileInputs.cache
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.csproj.CopyComplete
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.dll
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.pdb
+C:\Projeto\trabcarro\trabalho\obj\Debug\netcoreapp3.1\Trab_Interdiciplinar.genruntimeconfig.cache
